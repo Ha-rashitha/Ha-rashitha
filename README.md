@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ha-rashitha
+- 👋 Hi, I’m @Ha-rshitha
 - 👀 I’m interested in adventures
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on courses like app development,coding
